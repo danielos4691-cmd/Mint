@@ -1,0 +1,14 @@
+C:\Mint\Mint\Mint\bin\Debug\net10.0\Mint.exe
+C:\Mint\Mint\Mint\bin\Debug\net10.0\Mint.deps.json
+C:\Mint\Mint\Mint\bin\Debug\net10.0\Mint.runtimeconfig.json
+C:\Mint\Mint\Mint\bin\Debug\net10.0\Mint.dll
+C:\Mint\Mint\Mint\bin\Debug\net10.0\Mint.pdb
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.AssemblyInfoInputs.cache
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.AssemblyInfo.cs
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.csproj.CoreCompileInputs.cache
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.dll
+C:\Mint\Mint\Mint\obj\Debug\net10.0\refint\Mint.dll
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.pdb
+C:\Mint\Mint\Mint\obj\Debug\net10.0\Mint.genruntimeconfig.cache
+C:\Mint\Mint\Mint\obj\Debug\net10.0\ref\Mint.dll
